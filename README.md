@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-- 📚 I’m currently in my Third Year, pursuing my B.Tech degree
-- 🌱 I’m currently preparing for my Azure Certification Exams
+- 📚 I’m currently in my Fourth Year, pursuing my B.Tech degree
 - 👯 I’m looking to collaborate on any hackathon or open-source project!
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushik-iyer-8aa347216/)](https://www.linkedin.com/in/kaushik-iyer-8aa347216/)   [![Gmail Badge](https://img.shields.io/badge/-kushlaser@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kushlaser@gmail.com)](mailto:kushlaser@gmail.com)
